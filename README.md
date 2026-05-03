@@ -6,7 +6,7 @@ I'm a developer, CS student and [Advent of Code](https://adventofcode.com/) enjo
 
 - Working on: 🤫
 - Learning: something new every day
-- Location: 🌍
+- Location: Warsaw 🇵🇱
 
 ## Stack
 
