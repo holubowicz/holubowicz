@@ -4,9 +4,9 @@ I'm a developer, CS student and [Advent of Code](https://adventofcode.com/) enjo
 
 ## Currently
 
-- Working on: it's a secret
-- Learning: something new every day
-- Location: Warsaw, Poland
+- working on same side project, shh...
+- preparing for matura exam
+- learning k8s
 
 ## Stack
 
